@@ -1,0 +1,5 @@
+VALID_EMAIL = "paratest@mail.com"
+VALID_PASSWORD = "1234"
+
+INVALID_EMAIL = "anazta217gmail.com"
+INVALID_PASSWORD = "9413"
